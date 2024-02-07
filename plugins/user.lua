@@ -9,4 +9,7 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "ron-rs/ron.vim"
+  }
 }
